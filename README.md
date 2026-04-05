@@ -11,7 +11,8 @@ This project focuses on building predictive intelligence around complex neural b
 
 ## Core Idea
 
-Traditional neurological modeling often struggles with scalability and realism. This project reimagines the problem by:
+Traditional neurological modeling often struggles with scalability and realism.
+This project reimagines the problem by:
 
 Leveraging biologically inspired data sources
 Applying advanced temporal learning architectures
