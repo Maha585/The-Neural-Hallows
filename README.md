@@ -72,7 +72,7 @@ The Neural Hallows is not just a project — it’s a step toward blurring the l
 
 If you're interested in collaboration, research discussions, or opportunities:
 
-Open an issue
-Connect via LinkedIn / GitHub
-LinkedIn: www.linkedin.com/in/dimple-srinivasan-9962096230d
-Mail id: sdimple2005@gmail.com
+* Open an issue
+* Connect via GitHub
+* LinkedIn: www.linkedin.com/in/dimple-srinivasan-9962096230d
+* Mail id: sdimple2005@gmail.com
