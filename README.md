@@ -1,4 +1,4 @@
-### The Neural Hallows
+# The Neural Hallows
 ## Triadic Framework for Bio-AI Interfaces
 
 A next-generation research project exploring the intersection of biological intelligence and artificial intelligence through a unified computational framework.
