@@ -14,43 +14,43 @@ This project focuses on building predictive intelligence around complex neural b
 Traditional neurological modeling often struggles with scalability and realism.
 This project reimagines the problem by:
 
-Leveraging biologically inspired data sources
-Applying advanced temporal learning architectures
-Integrating computational predictions with neural signal environments
+* Leveraging biologically inspired data sources
+* Applying advanced temporal learning architectures
+* Integrating computational predictions with neural signal environments
 
 The result is a system designed to bridge biological complexity with computational efficiency.
 
 ## What This Project Does
-Learns patterns from neural signal data
-Models temporal dependencies in neuronal activity
-Explores hybrid deep learning approaches for improved prediction
-Evaluates performance across multiple architectures
-Provides a foundation for intelligent bio-digital interfaces
+* Learns patterns from neural signal data
+* Models temporal dependencies in neuronal activity
+* Explores hybrid deep learning approaches for improved prediction
+* Evaluates performance across multiple architectures
+* Provides a foundation for intelligent bio-digital interfaces
 
 (Some implementation details are intentionally abstracted to protect original work.)
 
 ## Tech Stack
-Python
-Deep Learning Frameworks (TensorFlow / PyTorch)
-Time-Series Modeling
-Signal Processing Techniques
-Data Balancing & Preprocessing Pipelines
+* Python
+* Deep Learning Frameworks (TensorFlow / PyTorch)
+* Time-Series Modeling
+* Signal Processing Techniques
+* Data Balancing & Preprocessing Pipelines
 
 ## Research Relevance
 This work sits at the intersection of:
 
-Artificial Intelligence
-Cognitive Science
-Computational Neuroscience
-Bioengineering
+* Artificial Intelligence
+* Cognitive Science
+* Computational Neuroscience
+* Bioengineering
 
 It contributes toward emerging paradigms like Organoid Intelligence (OI) and adaptive neuro-AI systems.
 
 ## Potential Applications
-Intelligent drug discovery systems
-Early-stage neurological disorder prediction
-Brain-computer interface research
-Simulation of complex neural behavior
+* Intelligent drug discovery systems
+* Early-stage neurological disorder prediction
+* Brain-computer interface research
+* Simulation of complex neural behavior
 
 ## Results (High-Level)
 
